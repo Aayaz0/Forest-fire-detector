@@ -11,7 +11,6 @@ Audible Alerts Through a Buzzer: Emits a loud sound to alert anyone nearby of th
 IFTTT is used to send gmail to others by just setting conditions when it meets the condition gmail will be sent automatically
 
 
-
 Components Used
 **NodeMCU ESP8266:** Wi-Fi-enabled microcontroller for processing sensor data.
 **Flame Sensor:** Detects flames or elevated temperatures.
